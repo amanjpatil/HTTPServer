@@ -1,0 +1,35 @@
+ 
+127.0.0.1 - - [2021-11-14 06:22:33.54455306:22:33] GET /home/aman/Desktop/CN_PROJECT/New Folder/AMAN_CN_FINAL/media/Access_deniedFile.html HTTP/1.1 405 213-Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+127.0.0.1 - - [2021-11-14 06:22:33.62828606:22:33] GET /home/aman/Desktop/CN_PROJECT/New Folder/AMAN_CN_FINAL/media/NOtfound.html HTTP/1.1 404 300-Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+127.0.0.1 - - [2021-11-14 06:24:05.81455706:24:05] GET /home/aman/Desktop/CN_PROJECT/New Folder/AMAN_CN_FINAL/media/Access_deniedFile.html HTTP/1.1 405 213-Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+127.0.0.1 - - [2021-11-15 01:30:46.36899001:30:46] GET /home/aman/Desktop/CN_PROJECT/New Folder/AMAN_CN_FINAL/media/NOtfound.html HTTP/1.1 404 300-python-requests/2.25.1
+127.0.0.1 - - [2021-11-15 01:34:43.60583201:34:43] GET /home/aman/Desktop/CN_PROJECT/New Folder/AMAN_CN_FINAL/media/NOtfound.html HTTP/1.1 404 300-python-requests/2.25.1
+127.0.0.1 - - [2021-11-15 01:36:11.18814301:36:11] GET /home/aman/Desktop/CN_PROJECT/New Folder/AMAN_CN_FINAL/media/NOtfound.html HTTP/1.1 404 300-python-requests/2.25.1
+127.0.0.1 - - [2021-11-15 01:37:39.83094801:37:39] GET /home/aman/Desktop/CN_PROJECT/New Folder/AMAN_CN_FINAL/media/NOtfound.html HTTP/1.1 404 300-python-requests/2.25.1
+127.0.0.1 - - [2021-11-15 01:39:31.62193601:39:31] GET /home/aman/Desktop/CN_PROJECT/New Folder/AMAN_CN_FINAL/media/NOtfound.html HTTP/1.1 404 300-python-requests/2.25.1
+127.0.0.1 - - [2021-11-15 01:41:30.05544401:41:30] GET /home/aman/Desktop/CN_PROJECT/New Folder/AMAN_CN_FINAL/media/NOtfound.html HTTP/1.1 404 300-python-requests/2.25.1
+127.0.0.1 - - [2021-11-15 01:42:42.88024701:42:42] GET /home/aman/Desktop/CN_PROJECT/New Folder/AMAN_CN_FINAL/media/NOtfound.html HTTP/1.1 404 300-python-requests/2.25.1
+127.0.0.1 - - [2021-11-15 01:43:37.12612701:43:37] GET /home/aman/Desktop/CN_PROJECT/New Folder/AMAN_CN_FINAL/media/NOtfound.html HTTP/1.1 404 300-python-requests/2.25.1
+127.0.0.1 - - [2021-11-15 01:44:39.54573301:44:39] GET /home/aman/Desktop/CN_PROJECT/New Folder/AMAN_CN_FINAL/media/NOtfound.html HTTP/1.1 404 300-python-requests/2.25.1
+127.0.0.1 - - [2021-11-15 01:47:56.39675701:47:56] GET /home/aman/Desktop/CN_PROJECT/New Folder/AMAN_CN_FINAL/media/NOtfound.html HTTP/1.1 404 300-python-requests/2.25.1
+127.0.0.1 - - [2021-11-15 01:50:01.00582901:50:00] HEAD /home/aman/Desktop/CN_PROJECT/New Folder/AMAN_CN_FINAL/media/NOtfound.html HTTP/1.1 404 300-python-requests/2.25.1
+127.0.0.1 - - [2021-11-15 01:50:25.76493501:50:25] HEAD /home/aman/Desktop/CN_PROJECT/New Folder/AMAN_CN_FINAL/media/NOtfound.html HTTP/1.1 404 300-python-requests/2.25.1
+127.0.0.1 - - [2021-11-15 01:53:32.71550401:53:32] HEAD /home/aman/Desktop/CN_PROJECT/New Folder/AMAN_CN_FINAL/media/NOtfound.html HTTP/1.1 404 300-python-requests/2.25.1
+127.0.0.1 - - [2021-11-15 02:04:24.15863202:04:24] DELETE /home/aman/Desktop/CN_PROJECT/New Folder/AMAN_CN_FINAL/media/NOtfound.html HTTP/1.1 404 300- python-requests/2.25.1
+127.0.0.1 - - [2021-11-15 02:05:44.10665502:05:44] DELETE /home/aman/Desktop/CN_PROJECT/New Folder/AMAN_CN_FINAL/media/NOtfound.html HTTP/1.1 404 300- python-requests/2.25.1
+127.0.0.1 - - [2021-11-15 02:07:16.47953602:07:16] DELETE /home/aman/Desktop/CN_PROJECT/New Folder/AMAN_CN_FINAL/media/NOtfound.html HTTP/1.1 404 300- python-requests/2.25.1
+127.0.0.1 - - [2021-11-15 02:08:32.17735602:08:32] DELETE /home/aman/Desktop/CN_PROJECT/New Folder/AMAN_CN_FINAL/media/NOtfound.html HTTP/1.1 404 300- python-requests/2.25.1
+127.0.0.1 - - [2021-11-15 02:11:09.28043702:11:09] DELETE /home/aman/Desktop/CN_PROJECT/New Folder/AMAN_CN_FINAL/media/NOtfound.html HTTP/1.1 404 300- python-requests/2.25.1
+127.0.0.1 - - [2021-11-15 02:14:18.23315902:14:18] DELETE /home/aman/Desktop/CN_PROJECT/New Folder/AMAN_CN_FINAL/media/NOtfound.html HTTP/1.1 404 300- python-requests/2.25.1
+127.0.0.1 - - [2021-11-15 02:19:16.39550902:19:16] DELETE /home/aman/Desktop/CN_PROJECT/New Folder/AMAN_CN_FINAL/media/NOtfound.html HTTP/1.1 404 300- python-requests/2.25.1
+127.0.0.1 - - [2021-11-15 02:23:31.85706202:23:31] DELETE /home/aman/Desktop/CN_PROJECT/New Folder/AMAN_CN_FINAL/media/Access_deniedFile.html HTTP/1.1 405 213- python-requests/2.25.1
+127.0.0.1 - - [2021-11-15 02:23:31.85936702:23:31] DELETE /home/aman/Desktop/CN_PROJECT/New Folder/AMAN_CN_FINAL/media/NOtfound.html HTTP/1.1 404 300- python-requests/2.25.1
+127.0.0.1 - - [2021-11-17 02:08:46.23212902:08:46] GET /home/aman/Desktop/CN_PROJECT/New Folder/AMAN_CN_FINAL/media/NOtfound.html HTTP/1.1 404 300-python-requests/2.25.1
+127.0.0.1 - - [2021-11-17 02:08:46.29695602:08:46] DELETE /home/aman/Desktop/CN_PROJECT/New Folder/AMAN_CN_FINAL/media/Access_deniedFile.html HTTP/1.1 405 213- python-requests/2.25.1
+127.0.0.1 - - [2021-11-17 02:08:46.35063802:08:46] HEAD /home/aman/Desktop/CN_PROJECT/New Folder/AMAN_CN_FINAL/media/NOtfound.html HTTP/1.1 404 300-python-requests/2.25.1
+127.0.0.1 - - [2021-12-08 23:05:45.85811223:05:45] GET /home/aman/Desktop/CN_PROJECT/New Folder/AMAN_CN_FINAL/media/NOtfound.html HTTP/1.1 404 300-python-requests/2.25.1
+127.0.0.1 - - [2021-12-08 23:05:45.92247323:05:45] DELETE /home/aman/Desktop/CN_PROJECT/New Folder/AMAN_CN_FINAL/media/NOtfound.html HTTP/1.1 404 300- python-requests/2.25.1
+127.0.0.1 - - [2021-12-08 23:05:45.92687123:05:45] DELETE /home/aman/Desktop/CN_PROJECT/New Folder/AMAN_CN_FINAL/media/NOtfound.html HTTP/1.1 404 300- python-requests/2.25.1
+127.0.0.1 - - [2021-12-08 23:05:45.93043723:05:45] DELETE /home/aman/Desktop/CN_PROJECT/New Folder/AMAN_CN_FINAL/media/Access_deniedFile.html HTTP/1.1 405 213- python-requests/2.25.1
+127.0.0.1 - - [2021-12-08 23:05:45.93346523:05:45] DELETE /home/aman/Desktop/CN_PROJECT/New Folder/AMAN_CN_FINAL/media/NOtfound.html HTTP/1.1 404 300- python-requests/2.25.1
+127.0.0.1 - - [2021-12-08 23:05:45.99245123:05:45] HEAD /home/aman/Desktop/CN_PROJECT/New Folder/AMAN_CN_FINAL/media/NOtfound.html HTTP/1.1 404 300-python-requests/2.25.1
